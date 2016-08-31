@@ -2,7 +2,7 @@
   "name": "expr-vj",
   "version": "0.1.0",
   "description": "A VJing tool based on iLambda/coolhumangifs.",
-  "main": "lib/expr-vj.js",
+  "main": "lib/vj-session.js",
   "scripts": {
     "test": "node test/demo.js"
   },
@@ -24,5 +24,10 @@
   "bugs": {
     "url": "https://github.com/iLambda/expr-vj/issues"
   },
-  "homepage": "https://github.com/iLambda/expr-vj#readme"
+  "homepage": "https://github.com/iLambda/expr-vj#readme",
+  "dependencies": {
+    "expr-tree": "^0.1.3",
+    "lodash": "^4.15.0",
+    "t": "^0.5.1"
+  }
 }
