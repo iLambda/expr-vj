@@ -29,5 +29,8 @@
     "expr-tree": "^0.1.3",
     "lodash": "^4.15.0",
     "t": "^0.5.1"
+  },
+  "devDependencies": {
+    "canvas": "^1.4.0"
   }
 }
