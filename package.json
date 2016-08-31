@@ -1,0 +1,28 @@
+{
+  "name": "expr-vj",
+  "version": "0.1.0",
+  "description": "A VJing tool based on iLambda/coolhumangifs.",
+  "main": "lib/expr-vj.js",
+  "scripts": {
+    "test": "node test/demo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iLambda/expr-vj.git"
+  },
+  "keywords": [
+    "vj",
+    "vjing",
+    "expr",
+    "expr-vj",
+    "math",
+    "procedural",
+    "art"
+  ],
+  "author": "iLambda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iLambda/expr-vj/issues"
+  },
+  "homepage": "https://github.com/iLambda/expr-vj#readme"
+}
